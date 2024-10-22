@@ -1,5 +1,6 @@
 torch
 torchvision
+numpy<2
 roma
 gradio
 matplotlib
